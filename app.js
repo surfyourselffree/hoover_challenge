@@ -1,6 +1,3 @@
-//To start the program run 'node app.js' in the terminal/iterm/console
-// and press 'enter'
-
 const fs = require("fs"); 
 
 //read input, text file
